@@ -11,7 +11,7 @@ qplot(x=tenure /365,data=Pf,binwidth = 0.25,
       ylab = 'Number of users in the sample',
       color = I('black') , fill = I('#ff5009'))+ 
   scale_x_continuous(breaks = 1:7, limits = c(0,7))
-
+#we add the comment 
 
 
 qplot(x=www_likes, data=subset(Pf,!is.na(gender)) ,color = I('black') , fill = I('#ff5009')) + 

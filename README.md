@@ -12,8 +12,7 @@ It's use the script.r
  and the result of the project Explore_bikeshare_data.html
 
 ### Credits
-##Work
- in th Bikeshare project I give an answers for the following questions : 
+###Work in th Bikeshare project I give an answers for the following questions : 
   Q1- What is the most common start statoin ?
   Q2-What is the summary of travel time for each user types in different cities? 
   Q3-What are the counts of each user type of each gender?

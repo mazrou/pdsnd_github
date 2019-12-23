@@ -34,7 +34,7 @@ ggplot(aes(x=age , y= friend_count) , data = Pf) +
   geom_point(alpha= 1/20) + 
   xlim(13,90)
 
-
+# this is for the last plot
 ggplot(aes(x=age , y= friend_count) , data = Pf) + 
  xlim (13,90) +
   geom_point(alpha= 0.05 , 
